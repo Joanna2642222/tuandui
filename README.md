@@ -1,28 +1,5 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desuar - Our Team</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        primary: '#8B5CF6', // 紫色调，传达奢华和专业感
-                        secondary: '#EC4899', // 粉色作为辅助色，适合美容行业
-                        neutral: '#F3F4F6', // 浅灰色背景
-                        dark: '#1F2937' // 深色文本
-                    },
-                    fontFamily: {
-                        sans: ['Inter', 'system-ui', 'sans-serif'],
-                        display: ['Playfair Display', 'serif']
-                    }
-                }
-            }
-        }
-    </script>
+
+  </script>
     <style type="text/tailwindcss">
         @layer utilities {
             .text-shadow {
