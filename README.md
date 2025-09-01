@@ -81,7 +81,6 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Julie Kim -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden card-hover">
                     <div class="relative overflow-hidden">
@@ -108,7 +107,6 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Sahar Emamzadeh Ei -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden card-hover">
                     <div class="relative overflow-hidden">
@@ -135,7 +133,6 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Andy Clayton -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden card-hover">
                     <div class="relative overflow-hidden">
@@ -165,7 +162,6 @@
             </div>
         </div>
     </section>
-
     <!-- 团队理念部分 -->
     <section class="py-16 bg-primary/5">
         <div class="container mx-auto px-4">
@@ -174,7 +170,6 @@
                 <p class="text-lg text-gray-600 mb-10">
                     At Desuar, we believe that beauty and wellness are interconnected. Our team combines expertise with genuine care to create experiences that nurture both body and mind.
                 </p>
-                
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div class="bg-white p-6 rounded-lg shadow-sm">
                         <div class="w-14 h-14 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -185,7 +180,6 @@
                             We're driven by a genuine love for what we do, bringing enthusiasm to every service.
                         </p>
                     </div>
-                    
                     <div class="bg-white p-6 rounded-lg shadow-sm">
                         <div class="w-14 h-14 bg-secondary/10 rounded-full flex items-center justify-center mx-auto mb-4">
                             <i class="fa fa-star text-secondary text-2xl"></i>
@@ -195,7 +189,6 @@
                             Our team's professional training ensures the highest quality in every treatment.
                         </p>
                     </div>
-                    
                     <div class="bg-white p-6 rounded-lg shadow-sm">
                         <div class="w-14 h-14 bg-green-500/10 rounded-full flex items-center justify-center mx-auto mb-4">
                             <i class="fa fa-users text-green-500 text-2xl"></i>
